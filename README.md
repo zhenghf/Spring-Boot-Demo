@@ -1,4 +1,4 @@
-# spring boot demo
+# Spring Boot Demo
 
 一、spring-boot-mybatis-xml
 
